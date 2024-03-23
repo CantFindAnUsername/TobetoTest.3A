@@ -44,7 +44,7 @@ print(f".cevre: {cevre}")
 '''
 
 # 5-Kullanıcıdan alınan bir sayının palindrom olup olmadığını bulan bir program yazınız.
-
+'''
 number = int(input("Lütfen palindrom bir sayı giriniz: "))
 
 numberStr = str(number)
@@ -62,9 +62,8 @@ if palindrom_mu(sayi):
     print("Girdiğiniz sayı bir palindromdur.")
 else:
     print("Girdiğiniz sayı bir palindrom değildir.")
+'''
 
-
-# deneme amaçlıdır
 
 
 
